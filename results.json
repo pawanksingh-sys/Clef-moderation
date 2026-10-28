@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "author": "Aditya Kulkarni",
+    "thread": "Doubts",
+    "posted_at": "2026-10-12 09:14",
+    "comment": "Ma'am, is it okay if we use Claude for the frontend and Codex for the backend logic, or should the whole artifact be built with one tool?",
+    "label": "acceptable",
+    "confidence": 0.7693,
+    "probabilities": {
+      "acceptable": 0.9181,
+      "toxic": 0.0396,
+      "spam": 0.0423
+    }
+  },
+  {
+    "id": 2,
+    "author": "Sneha Iyer",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-12 10:02",
+    "comment": "Submitted my artifact: a timetable clash checker for our dept. Claude made the UI in like 10 mins but I spent 2 hours fixing the CSV parsing. Link is in my submission.",
+    "label": "acceptable",
+    "confidence": 0.6121,
+    "probabilities": {
+      "acceptable": 0.8544,
+      "toxic": 0.0527,
+      "spam": 0.0929
+    }
+  },
+  {
+    "id": 3,
+    "author": "AssignmentGuru_99",
+    "thread": "General",
+    "posted_at": "2026-10-12 10:40",
+    "comment": "🔥🔥 GET YOUR ASSIGNMENTS DONE BY EXPERTS 🔥🔥 Claude/Codex/ML projects, plagiarism free, 100% marks guaranteed. WhatsApp +91 90000 12345. Special discount for CS307 students!!",
+    "label": "spam",
+    "confidence": 0.933,
+    "probabilities": {
+      "acceptable": 0.0114,
+      "toxic": 0.0113,
+      "spam": 0.9773
+    }
+  },
+  {
+    "id": 4,
+    "author": "Pooja Nair",
+    "thread": "Doubts",
+    "posted_at": "2026-10-12 11:25",
+    "comment": "Does the reflection doc need to include the prompts we used? Mine is around 40 prompts, that seems like too much to paste.",
+    "label": "acceptable",
+    "confidence": 0.7715,
+    "probabilities": {
+      "acceptable": 0.9189,
+      "toxic": 0.0378,
+      "spam": 0.0433
+    }
+  },
+  {
+    "id": 5,
+    "author": "Harsh Agarwal",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-12 12:10",
+    "comment": "@Rohit your expense splitter is really clean. One suggestion: there's a rounding error when splitting ₹100 three ways, it shows 33.33 x 3 = 99.99.",
+    "label": "acceptable",
+    "confidence": 0.7659,
+    "probabilities": {
+      "acceptable": 0.9154,
+      "toxic": 0.0081,
+      "spam": 0.0765
+    }
+  },
+  {
+    "id": 6,
+    "author": "Vikram Singh",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-12 12:31",
+    "comment": "Rohit's project is copy-paste from GitHub, everyone knows. Shameless guy, and sir still gives him marks. Pathetic.",
+    "label": "toxic",
+    "confidence": 0.7714,
+    "probabilities": {
+      "acceptable": 0.0564,
+      "toxic": 0.9186,
+      "spam": 0.025
+    }
+  },
+  {
+    "id": 7,
+    "author": "Mohd. Faizan",
+    "thread": "Doubts",
+    "posted_at": "2026-10-12 13:05",
+    "comment": "Bhai kisi ko Codex ka access mila? My college email isn't working for the student plan.",
+    "label": "acceptable",
+    "confidence": 0.8018,
+    "probabilities": {
+      "acceptable": 0.9301,
+      "toxic": 0.0245,
+      "spam": 0.0454
+    }
+  },
+  {
+    "id": 8,
+    "author": "Shreya Patil",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-12 14:47",
+    "comment": "Ma'am, is a deadline extension possible? Our hostel wifi was down from Thursday night till Saturday, the warden can confirm.",
+    "label": "acceptable",
+    "confidence": 0.9038,
+    "probabilities": {
+      "acceptable": 0.967,
+      "toxic": 0.0063,
+      "spam": 0.0267
+    }
+  },
+  {
+    "id": 9,
+    "author": "Vivek Menon",
+    "thread": "Doubts",
+    "posted_at": "2026-10-12 15:20",
+    "comment": "I found that Claude kept adding features I didn't ask for. Telling it \"do only X, nothing else\" at the start helped a lot.",
+    "label": "acceptable",
+    "confidence": 0.8173,
+    "probabilities": {
+      "acceptable": 0.936,
+      "toxic": 0.0239,
+      "spam": 0.0401
+    }
+  },
+  {
+    "id": 10,
+    "author": "Free AI Deals",
+    "thread": "General",
+    "posted_at": "2026-10-12 16:02",
+    "comment": "Join our Telegram group for FREE Claude Pro & ChatGPT Plus accounts 🤑 only ₹199 lifetime. t.me/aitoolsdeal_india (limited slots)",
+    "label": "spam",
+    "confidence": 0.8762,
+    "probabilities": {
+      "acceptable": 0.0213,
+      "toxic": 0.0213,
+      "spam": 0.9574
+    }
+  },
+  {
+    "id": 11,
+    "author": "Karthik Reddy",
+    "thread": "Doubts",
+    "posted_at": "2026-10-12 17:33",
+    "comment": "Can we deploy on Vercel or does it have to run locally? Mine needs an API key and I don't want to expose it publicly.",
+    "label": "acceptable",
+    "confidence": 0.717,
+    "probabilities": {
+      "acceptable": 0.8972,
+      "toxic": 0.0287,
+      "spam": 0.0741
+    }
+  },
+  {
+    "id": 12,
+    "author": "Ananya Joshi",
+    "thread": "Doubts",
+    "posted_at": "2026-10-12 18:15",
+    "comment": "Good point Sneha made in the lab: if the artifact stores data in localStorage, mention it in the reflection, since the data stays only in your browser.",
+    "label": "acceptable",
+    "confidence": 0.8857,
+    "probabilities": {
+      "acceptable": 0.9607,
+      "toxic": 0.0118,
+      "spam": 0.0275
+    }
+  },
+  {
+    "id": 13,
+    "author": "Saurabh Yadav",
+    "thread": "Doubts",
+    "posted_at": "2026-10-12 19:02",
+    "comment": "Seriously who asks these dumb questions? Read the assignment PDF before posting, idiots. Wasting everyone's time.",
+    "label": "toxic",
+    "confidence": 0.7207,
+    "probabilities": {
+      "acceptable": 0.0707,
+      "toxic": 0.8988,
+      "spam": 0.0305
+    }
+  },
+  {
+    "id": 14,
+    "author": "Nikhil Bansal",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-12 20:40",
+    "comment": "Honestly I think this assignment is too easy for 15 marks, the AI does 80% of the work. Grading should focus more on the reflection part.",
+    "label": "acceptable",
+    "confidence": 0.7903,
+    "probabilities": {
+      "acceptable": 0.9259,
+      "toxic": 0.029,
+      "spam": 0.0451
+    }
+  },
+  {
+    "id": 15,
+    "author": "Ankit Sharma",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-13 08:55",
+    "comment": "My quiz app for GATE prep is up. Feedback welcome, especially on the scoring logic — not sure the negative marking works right.",
+    "label": "acceptable",
+    "confidence": 0.6179,
+    "probabilities": {
+      "acceptable": 0.8513,
+      "toxic": 0.0052,
+      "spam": 0.1435
+    }
+  },
+  {
+    "id": 16,
+    "author": "Meera Krishnan",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-13 09:30",
+    "comment": "Tried it Ankit, the negative marking subtracts 1/3 even for unattempted questions. Check the condition where you compute the score.",
+    "label": "acceptable",
+    "confidence": 0.8939,
+    "probabilities": {
+      "acceptable": 0.9636,
+      "toxic": 0.008,
+      "spam": 0.0284
+    }
+  },
+  {
+    "id": 17,
+    "author": "Ritu Verma",
+    "thread": "General",
+    "posted_at": "2026-10-13 10:12",
+    "comment": "Earn ₹5000 daily from home using AI tools!! No investment. Students also eligible. DM me or visit earnwithai-india.in",
+    "label": "spam",
+    "confidence": 0.8829,
+    "probabilities": {
+      "acceptable": 0.0214,
+      "toxic": 0.0189,
+      "spam": 0.9597
+    }
+  },
+  {
+    "id": 18,
+    "author": "Tanvi Gupta",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-13 11:05",
+    "comment": "Sir, the rubric says \"originality\" — does a to-do app count as original if we add a feature like voice input?",
+    "label": "acceptable",
+    "confidence": 0.7726,
+    "probabilities": {
+      "acceptable": 0.9193,
+      "toxic": 0.0396,
+      "spam": 0.0411
+    }
+  },
+  {
+    "id": 19,
+    "author": "Rahul Chauhan",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-13 11:48",
+    "comment": "Bro your app looks like it was made by a 5th class kid lol. Delete it and save us the embarrassment 🤡",
+    "label": "toxic",
+    "confidence": 0.4703,
+    "probabilities": {
+      "acceptable": 0.1469,
+      "toxic": 0.7881,
+      "spam": 0.065
+    }
+  },
+  {
+    "id": 20,
+    "author": "Ishita Banerjee",
+    "thread": "General",
+    "posted_at": "2026-10-13 12:20",
+    "comment": "Thank you ma'am for the extra session on prompting yesterday. The bit about giving examples of the output format was super useful.",
+    "label": "acceptable",
+    "confidence": 0.9339,
+    "probabilities": {
+      "acceptable": 0.9776,
+      "toxic": 0.0056,
+      "spam": 0.0168
+    }
+  },
+  {
+    "id": 21,
+    "author": "Siddharth Rao",
+    "thread": "Doubts",
+    "posted_at": "2026-10-13 13:44",
+    "comment": "Codex wrote my tests but half of them were testing the wrong thing. Lesson learned: read the generated tests, don't just see green ✅ and move on.",
+    "label": "acceptable",
+    "confidence": 0.8413,
+    "probabilities": {
+      "acceptable": 0.9447,
+      "toxic": 0.0205,
+      "spam": 0.0348
+    }
+  },
+  {
+    "id": 22,
+    "author": "Aman Tiwari",
+    "thread": "Doubts",
+    "posted_at": "2026-10-13 15:10",
+    "comment": "Is anyone else getting \"rate limit exceeded\" on the free tier? It's been blocking me since afternoon.",
+    "label": "acceptable",
+    "confidence": 0.8671,
+    "probabilities": {
+      "acceptable": 0.9538,
+      "toxic": 0.0069,
+      "spam": 0.0393
+    }
+  },
+  {
+    "id": 23,
+    "author": "Pooja Nair",
+    "thread": "Doubts",
+    "posted_at": "2026-10-13 15:26",
+    "comment": "Yes same, try after midnight, it reset for me around 12:30.",
+    "label": "acceptable",
+    "confidence": 0.719,
+    "probabilities": {
+      "acceptable": 0.8962,
+      "toxic": 0.0067,
+      "spam": 0.0971
+    }
+  },
+  {
+    "id": 24,
+    "author": "Raju Tech",
+    "thread": "General",
+    "posted_at": "2026-10-13 16:03",
+    "comment": "Subscribe to my YouTube channel \"TechWithRaju\" for the full solution of CS307 assignment 3 step by step!! Link in bio. Like share subscribe 🙏🙏",
+    "label": "spam",
+    "confidence": 0.863,
+    "probabilities": {
+      "acceptable": 0.029,
+      "toxic": 0.0183,
+      "spam": 0.9527
+    }
+  },
+  {
+    "id": 25,
+    "author": "Kavya Pillai",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-13 17:22",
+    "comment": "Our group made a canteen menu voting app. Problem: anyone can vote 100 times by refreshing. Any simple way to stop this without a login?",
+    "label": "acceptable",
+    "confidence": 0.7756,
+    "probabilities": {
+      "acceptable": 0.9203,
+      "toxic": 0.0284,
+      "spam": 0.0513
+    }
+  },
+  {
+    "id": 26,
+    "author": "Harsh Agarwal",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-13 17:40",
+    "comment": "Use a localStorage flag for basic prevention, it's not secure but for a class demo it's fine. Or ask for roll number and check duplicates.",
+    "label": "acceptable",
+    "confidence": 0.922,
+    "probabilities": {
+      "acceptable": 0.9734,
+      "toxic": 0.0044,
+      "spam": 0.0222
+    }
+  },
+  {
+    "id": 27,
+    "author": "Deepak Mishra",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-13 19:05",
+    "comment": "Girls in this class only get good marks because sir is soft on them. Ishita's project is average at best.",
+    "label": "acceptable",
+    "confidence": 0.708,
+    "probabilities": {
+      "acceptable": 0.8942,
+      "toxic": 0.0593,
+      "spam": 0.0465
+    }
+  },
+  {
+    "id": 28,
+    "author": "Omkar Jadhav",
+    "thread": "Doubts",
+    "posted_at": "2026-10-13 20:30",
+    "comment": "Sharing a tip: ask Claude to explain the code it wrote line by line before you submit. Viva mein pakde jaoge otherwise 😅",
+    "label": "acceptable",
+    "confidence": 0.7519,
+    "probabilities": {
+      "acceptable": 0.9096,
+      "toxic": 0.006,
+      "spam": 0.0844
+    }
+  },
+  {
+    "id": 29,
+    "author": "Prateek Saxena",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-14 09:02",
+    "comment": "Is the viva individual or group-wise? Some of us did most of the work and others just watched.",
+    "label": "acceptable",
+    "confidence": 0.7928,
+    "probabilities": {
+      "acceptable": 0.9269,
+      "toxic": 0.0345,
+      "spam": 0.0386
+    }
+  },
+  {
+    "id": 30,
+    "author": "Ritika Sen",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-14 09:20",
+    "comment": "^ this. In my group one member didn't even open the repo. How do we report this without drama?",
+    "label": "acceptable",
+    "confidence": 0.8183,
+    "probabilities": {
+      "acceptable": 0.9363,
+      "toxic": 0.0211,
+      "spam": 0.0426
+    }
+  },
+  {
+    "id": 31,
+    "author": "Rahul Chauhan",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-14 09:41",
+    "comment": "@Karan we all know you're the one who didn't open the repo. Useless fellow, always free-riding. Get lost.",
+    "label": "toxic",
+    "confidence": 0.8384,
+    "probabilities": {
+      "acceptable": 0.0339,
+      "toxic": 0.9437,
+      "spam": 0.0224
+    }
+  },
+  {
+    "id": 32,
+    "author": "Aditya Kulkarni",
+    "thread": "Doubts",
+    "posted_at": "2026-10-14 10:15",
+    "comment": "Can we use Gemini or other models, or strictly Claude/Codex? The assignment title says Claude/Codex but the PDF says \"any AI coding assistant\".",
+    "label": "acceptable",
+    "confidence": 0.7664,
+    "probabilities": {
+      "acceptable": 0.9169,
+      "toxic": 0.0367,
+      "spam": 0.0464
+    }
+  },
+  {
+    "id": 33,
+    "author": "exam_updates_2026",
+    "thread": "General",
+    "posted_at": "2026-10-14 11:00",
+    "comment": "URGENT: CS307 end-sem question paper leaked!! Get it before it's removed. ₹499 only. Pay on UPI 9000012345@upi and send screenshot.",
+    "label": "spam",
+    "confidence": 0.8236,
+    "probabilities": {
+      "acceptable": 0.0359,
+      "toxic": 0.0258,
+      "spam": 0.9383
+    }
+  },
+  {
+    "id": 34,
+    "author": "Shreya Patil",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-14 21:12",
+    "comment": "Sir, the submission link on Moodle is showing \"closed\" even though the deadline is tonight 11:59 PM.",
+    "label": "acceptable",
+    "confidence": 0.7922,
+    "probabilities": {
+      "acceptable": 0.9266,
+      "toxic": 0.0289,
+      "spam": 0.0445
+    }
+  },
+  {
+    "id": 35,
+    "author": "Rakesh M (TA)",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-14 21:30",
+    "comment": "It's open now, please refresh. It was a timezone setting issue on the course page.",
+    "label": "acceptable",
+    "confidence": 0.9218,
+    "probabilities": {
+      "acceptable": 0.9733,
+      "toxic": 0.005,
+      "spam": 0.0217
+    }
+  },
+  {
+    "id": 36,
+    "author": "Divya Hegde",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-15 08:40",
+    "comment": "My artifact helps my mom track her tailoring orders. She actually uses it now! Never thought an assignment would be useful at home.",
+    "label": "acceptable",
+    "confidence": 0.781,
+    "probabilities": {
+      "acceptable": 0.9212,
+      "toxic": 0.0052,
+      "spam": 0.0736
+    }
+  },
+  {
+    "id": 37,
+    "author": "Ananya Joshi",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-15 09:05",
+    "comment": "That's amazing Divya 👏 Maybe add a WhatsApp reminder for due dates? Could be a nice extension.",
+    "label": "acceptable",
+    "confidence": 0.7903,
+    "probabilities": {
+      "acceptable": 0.9252,
+      "toxic": 0.0107,
+      "spam": 0.0641
+    }
+  },
+  {
+    "id": 38,
+    "author": "Kunal Bhatia",
+    "thread": "Doubts",
+    "posted_at": "2026-10-15 10:18",
+    "comment": "Doubt: if Claude generates code that's similar to some open-source project, is that plagiarism? How do we cite it?",
+    "label": "acceptable",
+    "confidence": 0.744,
+    "probabilities": {
+      "acceptable": 0.9083,
+      "toxic": 0.04,
+      "spam": 0.0517
+    }
+  },
+  {
+    "id": 39,
+    "author": "Dr. Lakshmi Narayanan",
+    "thread": "Doubts",
+    "posted_at": "2026-10-15 11:02",
+    "comment": "Good question. Mention the tool and your prompts in the reflection, and if you knowingly used a library or snippet, cite it like any other source.",
+    "label": "acceptable",
+    "confidence": 0.9324,
+    "probabilities": {
+      "acceptable": 0.977,
+      "toxic": 0.0044,
+      "spam": 0.0186
+    }
+  },
+  {
+    "id": 40,
+    "author": "Shree Computers",
+    "thread": "General",
+    "posted_at": "2026-10-15 12:30",
+    "comment": "Cheap laptops for engineering students!! i5 12th gen just ₹18,999. Limited stock. Call Shree Computers, Shivaji Nagar 📞 90000 54321",
+    "label": "spam",
+    "confidence": 0.8383,
+    "probabilities": {
+      "acceptable": 0.029,
+      "toxic": 0.0273,
+      "spam": 0.9437
+    }
+  },
+  {
+    "id": 41,
+    "author": "Vikram Singh",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-15 13:15",
+    "comment": "This forum is full of sir's chamchas. Everybody praising every useless app. Fake people.",
+    "label": "toxic",
+    "confidence": 0.5144,
+    "probabilities": {
+      "acceptable": 0.1283,
+      "toxic": 0.81,
+      "spam": 0.0617
+    }
+  },
+  {
+    "id": 42,
+    "author": "Kunal Bhatia",
+    "thread": "General",
+    "posted_at": "2026-10-15 14:00",
+    "comment": "I'm not sure using AI for assignments is actually teaching us anything. I learned more debugging the output than from the tool itself.",
+    "label": "acceptable",
+    "confidence": 0.7963,
+    "probabilities": {
+      "acceptable": 0.9282,
+      "toxic": 0.0292,
+      "spam": 0.0426
+    }
+  },
+  {
+    "id": 43,
+    "author": "Siddharth Rao",
+    "thread": "General",
+    "posted_at": "2026-10-15 14:22",
+    "comment": "Disagree a bit — knowing what to ask and how to check the output is itself a skill. Industry is going this way anyway.",
+    "label": "acceptable",
+    "confidence": 0.9078,
+    "probabilities": {
+      "acceptable": 0.9684,
+      "toxic": 0.0071,
+      "spam": 0.0245
+    }
+  },
+  {
+    "id": 44,
+    "author": "Vivek Menon",
+    "thread": "Doubts",
+    "posted_at": "2026-10-15 16:35",
+    "comment": "My Codex output used a deprecated pandas function (append). Fixed it with concat. Posting in case anyone else hits the same error.",
+    "label": "acceptable",
+    "confidence": 0.8437,
+    "probabilities": {
+      "acceptable": 0.9454,
+      "toxic": 0.0101,
+      "spam": 0.0445
+    }
+  },
+  {
+    "id": 45,
+    "author": "Tanvi Gupta",
+    "thread": "Doubts",
+    "posted_at": "2026-10-15 16:50",
+    "comment": "Thanks Vivek, was stuck on exactly this for an hour 🙏",
+    "label": "acceptable",
+    "confidence": 0.8244,
+    "probabilities": {
+      "acceptable": 0.938,
+      "toxic": 0.0066,
+      "spam": 0.0554
+    }
+  },
+  {
+    "id": 46,
+    "author": "CryptoKing Official",
+    "thread": "General",
+    "posted_at": "2026-10-15 18:00",
+    "comment": "💰 Crypto signals group 💰 90% accuracy, students making ₹50k/month. Join fast before closing: bit.ly/crypto-signal-vip",
+    "label": "spam",
+    "confidence": 0.893,
+    "probabilities": {
+      "acceptable": 0.0174,
+      "toxic": 0.0193,
+      "spam": 0.9633
+    }
+  },
+  {
+    "id": 47,
+    "author": "Mohd. Faizan",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-16 09:10",
+    "comment": "Ma'am, will the marks be uploaded before the Diwali break?",
+    "label": "acceptable",
+    "confidence": 0.7893,
+    "probabilities": {
+      "acceptable": 0.9255,
+      "toxic": 0.0294,
+      "spam": 0.0451
+    }
+  },
+  {
+    "id": 48,
+    "author": "Deepak Mishra",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-16 10:25",
+    "comment": "Whoever gave my project 2/10 in peer review, you're a jealous loser. I know who you are and I'll see you outside the lab.",
+    "label": "toxic",
+    "confidence": 0.761,
+    "probabilities": {
+      "acceptable": 0.0598,
+      "toxic": 0.9146,
+      "spam": 0.0256
+    }
+  },
+  {
+    "id": 49,
+    "author": "Kavya Pillai",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-16 11:00",
+    "comment": "Peer review feedback was helpful, thanks to whoever pointed out the mobile layout breaking. Fixed it.",
+    "label": "acceptable",
+    "confidence": 0.8755,
+    "probabilities": {
+      "acceptable": 0.957,
+      "toxic": 0.0119,
+      "spam": 0.0311
+    }
+  },
+  {
+    "id": 50,
+    "author": "Riya Thomas",
+    "thread": "Doubts",
+    "posted_at": "2026-10-16 11:40",
+    "comment": "Can someone explain what \"artifact\" means here? Is it just the code or a deployed thing people can open?",
+    "label": "acceptable",
+    "confidence": 0.7002,
+    "probabilities": {
+      "acceptable": 0.8912,
+      "toxic": 0.0523,
+      "spam": 0.0565
+    }
+  },
+  {
+    "id": 51,
+    "author": "Rakesh M (TA)",
+    "thread": "Doubts",
+    "posted_at": "2026-10-16 12:05",
+    "comment": "From the PDF: artifact = a working, shareable thing (web page, tool, small app) + a 1-page reflection. Code alone isn't enough.",
+    "label": "acceptable",
+    "confidence": 0.8407,
+    "probabilities": {
+      "acceptable": 0.944,
+      "toxic": 0.0041,
+      "spam": 0.0519
+    }
+  },
+  {
+    "id": 52,
+    "author": "Shruti Deshpande",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-16 14:15",
+    "comment": "Built a Marathi–English vocabulary flashcard app. Claude handled the Devanagari fonts without issues, which surprised me.",
+    "label": "acceptable",
+    "confidence": 0.7031,
+    "probabilities": {
+      "acceptable": 0.89,
+      "toxic": 0.0106,
+      "spam": 0.0994
+    }
+  },
+  {
+    "id": 53,
+    "author": "Karthik Reddy",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-16 14:40",
+    "comment": "Nice! Does it do audio pronunciation? The browser speech API supports mr-IN I think.",
+    "label": "acceptable",
+    "confidence": 0.7307,
+    "probabilities": {
+      "acceptable": 0.903,
+      "toxic": 0.0343,
+      "spam": 0.0627
+    }
+  },
+  {
+    "id": 54,
+    "author": "Assignment Help Zone",
+    "thread": "General",
+    "posted_at": "2026-10-16 15:30",
+    "comment": "Need help with your assignment? Our PhD experts do Python, Java, ML, AI projects. Fast delivery in 24 hours. Visit www.assignmenthelpzone.co.in or mail help@assignmenthelpzone.co.in",
+    "label": "spam",
+    "confidence": 0.9346,
+    "probabilities": {
+      "acceptable": 0.011,
+      "toxic": 0.0112,
+      "spam": 0.9778
+    }
+  },
+  {
+    "id": 55,
+    "author": "Saurabh Yadav",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-16 16:02",
+    "comment": "Ankit's GATE quiz app is trash just like his GATE score will be 😂😂",
+    "label": "toxic",
+    "confidence": 0.6734,
+    "probabilities": {
+      "acceptable": 0.0808,
+      "toxic": 0.8799,
+      "spam": 0.0393
+    }
+  },
+  {
+    "id": 56,
+    "author": "Prateek Saxena",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-16 18:20",
+    "comment": "Request: can the TA share a sample of a good reflection from last year? Not sure what level of detail is expected.",
+    "label": "acceptable",
+    "confidence": 0.7337,
+    "probabilities": {
+      "acceptable": 0.9044,
+      "toxic": 0.0435,
+      "spam": 0.0521
+    }
+  },
+  {
+    "id": 57,
+    "author": "Aman Tiwari",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-16 22:45",
+    "comment": "Sir, I submitted the wrong link by mistake (my old repo). Can you allow a resubmission?",
+    "label": "acceptable",
+    "confidence": 0.7376,
+    "probabilities": {
+      "acceptable": 0.9059,
+      "toxic": 0.0421,
+      "spam": 0.052
+    }
+  },
+  {
+    "id": 58,
+    "author": "Riya Thomas",
+    "thread": "Doubts",
+    "posted_at": "2026-10-17 09:00",
+    "comment": "Is it fine if our artifact uses a free public API (like weather)? Or should everything be self-contained?",
+    "label": "acceptable",
+    "confidence": 0.7579,
+    "probabilities": {
+      "acceptable": 0.9137,
+      "toxic": 0.0411,
+      "spam": 0.0452
+    }
+  },
+  {
+    "id": 59,
+    "author": "Meera Krishnan",
+    "thread": "General",
+    "posted_at": "2026-10-17 10:30",
+    "comment": "My experience: Claude is better at explaining, Codex felt faster for refactoring. Both hallucinated a library function once.",
+    "label": "acceptable",
+    "confidence": 0.8176,
+    "probabilities": {
+      "acceptable": 0.9358,
+      "toxic": 0.0136,
+      "spam": 0.0506
+    }
+  },
+  {
+    "id": 60,
+    "author": "Nikhil Bansal",
+    "thread": "General",
+    "posted_at": "2026-10-17 10:52",
+    "comment": "Agree. Codex invented a \"pd.read_html_table\" function for me 😂 Always run the code.",
+    "label": "acceptable",
+    "confidence": 0.8427,
+    "probabilities": {
+      "acceptable": 0.9449,
+      "toxic": 0.0083,
+      "spam": 0.0468
+    }
+  },
+  {
+    "id": 61,
+    "author": "Rahul Chauhan",
+    "thread": "General",
+    "posted_at": "2026-10-17 11:10",
+    "comment": "Shut up Meera, nobody cares about your \"experience\". Topper behaviour as usual 🙄",
+    "label": "toxic",
+    "confidence": 0.8068,
+    "probabilities": {
+      "acceptable": 0.0418,
+      "toxic": 0.9321,
+      "spam": 0.0261
+    }
+  },
+  {
+    "id": 62,
+    "author": "Omkar Jadhav",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-17 12:40",
+    "comment": "Our hostel group made an attendance tracker for the mess. Uploaded screenshots to the drive folder as instructed.",
+    "label": "acceptable",
+    "confidence": 0.7375,
+    "probabilities": {
+      "acceptable": 0.904,
+      "toxic": 0.0076,
+      "spam": 0.0884
+    }
+  },
+  {
+    "id": 63,
+    "author": "Notes Wala Bhaiya",
+    "thread": "General",
+    "posted_at": "2026-10-17 13:30",
+    "comment": "Hello dear friends, I am selling original notes of all subjects 3rd year CSE. PDF available at low price. Contact on Instagram @notes.wala.bhaiya",
+    "label": "spam",
+    "confidence": 0.8853,
+    "probabilities": {
+      "acceptable": 0.0192,
+      "toxic": 0.0202,
+      "spam": 0.9606
+    }
+  },
+  {
+    "id": 64,
+    "author": "Arjun Das",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-17 15:05",
+    "comment": "Ma'am, our artifact is for visually impaired users (screen-reader friendly bus timings). Can we get extra time to test it with actual users from the NGO?",
+    "label": "acceptable",
+    "confidence": 0.8291,
+    "probabilities": {
+      "acceptable": 0.9398,
+      "toxic": 0.0086,
+      "spam": 0.0516
+    }
+  },
+  {
+    "id": 65,
+    "author": "Neha Kapoor",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-17 15:30",
+    "comment": "That's a great project, Arjun. Happy to help test with NVDA if you need another tester.",
+    "label": "acceptable",
+    "confidence": 0.7058,
+    "probabilities": {
+      "acceptable": 0.8926,
+      "toxic": 0.0271,
+      "spam": 0.0803
+    }
+  },
+  {
+    "id": 66,
+    "author": "Sonu Kumar",
+    "thread": "Doubts",
+    "posted_at": "2026-10-17 17:10",
+    "comment": "Kya reflection Hindi mein likh sakte hain? My English writing is not that good but I can explain properly in Hindi.",
+    "label": "acceptable",
+    "confidence": 0.7942,
+    "probabilities": {
+      "acceptable": 0.9266,
+      "toxic": 0.009,
+      "spam": 0.0644
+    }
+  },
+  {
+    "id": 67,
+    "author": "Ishita Banerjee",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-18 09:25",
+    "comment": "The rubric weightage is unclear. 40% artifact, 40% reflection, 20% viva — is that correct? The slides said something different.",
+    "label": "acceptable",
+    "confidence": 0.7793,
+    "probabilities": {
+      "acceptable": 0.9218,
+      "toxic": 0.034,
+      "spam": 0.0442
+    }
+  },
+  {
+    "id": 68,
+    "author": "Ritika Sen",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-18 10:00",
+    "comment": "The grading for assignment 2 was unfair in my opinion, the same output got different marks in different batches. Please clarify the re-evaluation process.",
+    "label": "acceptable",
+    "confidence": 0.7847,
+    "probabilities": {
+      "acceptable": 0.9239,
+      "toxic": 0.034,
+      "spam": 0.0421
+    }
+  },
+  {
+    "id": 69,
+    "author": "Vikram Singh",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-18 10:22",
+    "comment": "TA doesn't know anything himself, how will he grade AI projects? Clueless fellow should go back to school.",
+    "label": "acceptable",
+    "confidence": 0.5904,
+    "probabilities": {
+      "acceptable": 0.8438,
+      "toxic": 0.1154,
+      "spam": 0.0408
+    }
+  },
+  {
+    "id": 70,
+    "author": "Harsh Agarwal",
+    "thread": "Doubts",
+    "posted_at": "2026-10-18 12:15",
+    "comment": "Tip for anyone using Claude artifacts: ask it to add a \"reset data\" button. Saved me during the demo when the test data got messed up.",
+    "label": "acceptable",
+    "confidence": 0.8685,
+    "probabilities": {
+      "acceptable": 0.9542,
+      "toxic": 0.0035,
+      "spam": 0.0423
+    }
+  },
+  {
+    "id": 71,
+    "author": "Giveaway India",
+    "thread": "General",
+    "posted_at": "2026-10-18 13:00",
+    "comment": "FREE iPhone 17 giveaway for college students 🎉 Just fill the form with your name, college ID and Aadhaar number: forms-giveaway-india.com/iphone",
+    "label": "spam",
+    "confidence": 0.8532,
+    "probabilities": {
+      "acceptable": 0.0286,
+      "toxic": 0.0223,
+      "spam": 0.9491
+    }
+  },
+  {
+    "id": 72,
+    "author": "Gaurav Pandey",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-18 15:45",
+    "comment": "Our team used Codex to convert old C++ lab programs into a small web visualizer for sorting algorithms. Feedback welcome!",
+    "label": "acceptable",
+    "confidence": 0.6225,
+    "probabilities": {
+      "acceptable": 0.8576,
+      "toxic": 0.0349,
+      "spam": 0.1075
+    }
+  },
+  {
+    "id": 73,
+    "author": "Shruti Deshpande",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-18 16:10",
+    "comment": "Very nice, but the bubble sort animation is too fast to follow. Maybe add a speed slider?",
+    "label": "acceptable",
+    "confidence": 0.7905,
+    "probabilities": {
+      "acceptable": 0.926,
+      "toxic": 0.0335,
+      "spam": 0.0405
+    }
+  },
+  {
+    "id": 74,
+    "author": "Tanvi Gupta",
+    "thread": "Doubts",
+    "posted_at": "2026-10-18 18:30",
+    "comment": "Is there a word limit for the reflection? I wrote 1100 words, feels too long.",
+    "label": "acceptable",
+    "confidence": 0.8078,
+    "probabilities": {
+      "acceptable": 0.9324,
+      "toxic": 0.0248,
+      "spam": 0.0428
+    }
+  },
+  {
+    "id": 75,
+    "author": "Pooja Nair",
+    "thread": "Doubts",
+    "posted_at": "2026-10-18 18:45",
+    "comment": "Ma'am said max 1 page, so around 500 words.",
+    "label": "acceptable",
+    "confidence": 0.9042,
+    "probabilities": {
+      "acceptable": 0.9671,
+      "toxic": 0.0051,
+      "spam": 0.0278
+    }
+  },
+  {
+    "id": 76,
+    "author": "Deepak Mishra",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-19 09:10",
+    "comment": "Everyone from that side of the hostel copies, it's in their blood. Don't trust their \"original\" projects.",
+    "label": "acceptable",
+    "confidence": 0.2243,
+    "probabilities": {
+      "acceptable": 0.6472,
+      "toxic": 0.1473,
+      "spam": 0.2055
+    }
+  },
+  {
+    "id": 77,
+    "author": "Gaurav Pandey",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-19 10:30",
+    "comment": "Sir, what happens if our deployed link stops working after submission (free hosting expires)? Will we lose marks?",
+    "label": "acceptable",
+    "confidence": 0.7624,
+    "probabilities": {
+      "acceptable": 0.9154,
+      "toxic": 0.041,
+      "spam": 0.0436
+    }
+  },
+  {
+    "id": 78,
+    "author": "Kavya Pillai",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-19 10:50",
+    "comment": "I shared a short screen recording as a backup in case the link fails. Maybe others should do the same.",
+    "label": "acceptable",
+    "confidence": 0.8579,
+    "probabilities": {
+      "acceptable": 0.9503,
+      "toxic": 0.0036,
+      "spam": 0.0461
+    }
+  },
+  {
+    "id": 79,
+    "author": "InstaGrowth Services",
+    "thread": "General",
+    "posted_at": "2026-10-19 12:00",
+    "comment": "👉 Get 10,000 Instagram followers in 1 day 👈 Real & active. Best for students starting tech pages. WhatsApp 90000 67890",
+    "label": "spam",
+    "confidence": 0.9016,
+    "probabilities": {
+      "acceptable": 0.0156,
+      "toxic": 0.0181,
+      "spam": 0.9663
+    }
+  },
+  {
+    "id": 80,
+    "author": "Kunal Bhatia",
+    "thread": "General",
+    "posted_at": "2026-10-19 21:40",
+    "comment": "I'm struggling honestly. Everyone is posting cool apps and mine barely works. Is it okay to submit something simple if the reflection is honest?",
+    "label": "acceptable",
+    "confidence": 0.7886,
+    "probabilities": {
+      "acceptable": 0.9253,
+      "toxic": 0.0357,
+      "spam": 0.039
+    }
+  },
+  {
+    "id": 81,
+    "author": "Neha Kapoor",
+    "thread": "General",
+    "posted_at": "2026-10-19 22:05",
+    "comment": "Absolutely okay. Sir said in class that the reflection about what failed counts a lot. Don't stress, simple + honest > fancy + copied.",
+    "label": "acceptable",
+    "confidence": 0.8971,
+    "probabilities": {
+      "acceptable": 0.9647,
+      "toxic": 0.0105,
+      "spam": 0.0248
+    }
+  },
+  {
+    "id": 82,
+    "author": "Kunal Bhatia",
+    "thread": "General",
+    "posted_at": "2026-10-19 22:20",
+    "comment": "Thank you Neha, that really helps 🙂",
+    "label": "acceptable",
+    "confidence": 0.8173,
+    "probabilities": {
+      "acceptable": 0.9353,
+      "toxic": 0.0056,
+      "spam": 0.0591
+    }
+  },
+  {
+    "id": 83,
+    "author": "Saurabh Yadav",
+    "thread": "General",
+    "posted_at": "2026-10-19 22:48",
+    "comment": "lol Kunal still crying about his project. Maybe engineering isn't for you bro, try BA.",
+    "label": "acceptable",
+    "confidence": 0.3733,
+    "probabilities": {
+      "acceptable": 0.7222,
+      "toxic": 0.244,
+      "spam": 0.0338
+    }
+  },
+  {
+    "id": 84,
+    "author": "Sonu Kumar",
+    "thread": "Doubts",
+    "posted_at": "2026-10-20 09:30",
+    "comment": "Doubt: Claude gave different code for the same prompt twice. Which one should we submit, and should we mention it?",
+    "label": "acceptable",
+    "confidence": 0.7717,
+    "probabilities": {
+      "acceptable": 0.9189,
+      "toxic": 0.0343,
+      "spam": 0.0468
+    }
+  },
+  {
+    "id": 85,
+    "author": "Meera Krishnan",
+    "thread": "Doubts",
+    "posted_at": "2026-10-20 09:55",
+    "comment": "Submit the one you tested and understand. Mentioning the variation in your reflection is actually a good insight.",
+    "label": "acceptable",
+    "confidence": 0.8887,
+    "probabilities": {
+      "acceptable": 0.9617,
+      "toxic": 0.0075,
+      "spam": 0.0308
+    }
+  },
+  {
+    "id": 86,
+    "author": "Work From Home Jobs",
+    "thread": "General",
+    "posted_at": "2026-10-20 11:00",
+    "comment": "Part time job for students: typing work, ₹800/day, no target. Registration fee only ₹299. Reply \"INTERESTED\" with your number.",
+    "label": "spam",
+    "confidence": 0.8888,
+    "probabilities": {
+      "acceptable": 0.0217,
+      "toxic": 0.0165,
+      "spam": 0.9618
+    }
+  },
+  {
+    "id": 87,
+    "author": "Aditya Kulkarni",
+    "thread": "Doubts",
+    "posted_at": "2026-10-20 12:20",
+    "comment": "Can we work on an existing personal project and extend it with AI, or must it be new?",
+    "label": "acceptable",
+    "confidence": 0.7757,
+    "probabilities": {
+      "acceptable": 0.9205,
+      "toxic": 0.0384,
+      "spam": 0.0411
+    }
+  },
+  {
+    "id": 88,
+    "author": "Saurabh Yadav",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-20 13:10",
+    "comment": "Ankit, sorry for that comment about your app and your GATE score, it was uncalled for. The app is actually good, just that one bug.",
+    "label": "acceptable",
+    "confidence": 0.8476,
+    "probabilities": {
+      "acceptable": 0.947,
+      "toxic": 0.0184,
+      "spam": 0.0346
+    }
+  },
+  {
+    "id": 89,
+    "author": "Ishita Banerjee",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-20 16:00",
+    "comment": "Our college fest registration form artifact is live, please test and break it before Friday 🙏",
+    "label": "acceptable",
+    "confidence": 0.2774,
+    "probabilities": {
+      "acceptable": 0.6036,
+      "toxic": 0.0041,
+      "spam": 0.3923
+    }
+  },
+  {
+    "id": 90,
+    "author": "Riya Thomas",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-20 16:35",
+    "comment": "Found a bug: entering an emoji in the name field crashes the confirmation page. 😅",
+    "label": "acceptable",
+    "confidence": 0.8713,
+    "probabilities": {
+      "acceptable": 0.9553,
+      "toxic": 0.0048,
+      "spam": 0.0399
+    }
+  },
+  {
+    "id": 91,
+    "author": "Vikram Singh",
+    "thread": "Share your artifacts",
+    "posted_at": "2026-10-20 17:02",
+    "comment": "Who made this garbage form? Typical mechanical branch people trying to code. Stick to your lathe machines 😂",
+    "label": "toxic",
+    "confidence": 0.2207,
+    "probabilities": {
+      "acceptable": 0.3582,
+      "toxic": 0.5913,
+      "spam": 0.0505
+    }
+  },
+  {
+    "id": 92,
+    "author": "Shruti Deshpande",
+    "thread": "Doubts",
+    "posted_at": "2026-10-21 10:10",
+    "comment": "Does using AI-generated images in the artifact need attribution too?",
+    "label": "acceptable",
+    "confidence": 0.7449,
+    "probabilities": {
+      "acceptable": 0.9087,
+      "toxic": 0.0436,
+      "spam": 0.0477
+    }
+  },
+  {
+    "id": 93,
+    "author": "Siddharth Rao",
+    "thread": "General",
+    "posted_at": "2026-10-21 11:30",
+    "comment": "Will there be a session on how to evaluate AI-generated code for security issues? Seems important for the next assignment.",
+    "label": "acceptable",
+    "confidence": 0.7375,
+    "probabilities": {
+      "acceptable": 0.9059,
+      "toxic": 0.0449,
+      "spam": 0.0492
+    }
+  },
+  {
+    "id": 94,
+    "author": "cs307_solutions",
+    "thread": "General",
+    "posted_at": "2026-10-21 12:00",
+    "comment": "CS307 complete solved assignments + viva answers available!! 100% working code. DM on telegram @cs307_solutions_hub. Pay after delivery.",
+    "label": "spam",
+    "confidence": 0.9122,
+    "probabilities": {
+      "acceptable": 0.0158,
+      "toxic": 0.0141,
+      "spam": 0.9701
+    }
+  },
+  {
+    "id": 95,
+    "author": "Ritika Sen",
+    "thread": "General",
+    "posted_at": "2026-10-21 14:15",
+    "comment": "Sir, please consider allowing pair submissions next time, 4-member groups are hard to coordinate.",
+    "label": "acceptable",
+    "confidence": 0.8892,
+    "probabilities": {
+      "acceptable": 0.962,
+      "toxic": 0.0141,
+      "spam": 0.0239
+    }
+  },
+  {
+    "id": 96,
+    "author": "Omkar Jadhav",
+    "thread": "Submission & grading",
+    "posted_at": "2026-10-21 23:58",
+    "comment": "Finally submitted at 11:57 PM 😂 Never doing last-minute again (I say this every semester).",
+    "label": "acceptable",
+    "confidence": 0.8912,
+    "probabilities": {
+      "acceptable": 0.9625,
+      "toxic": 0.0057,
+      "spam": 0.0318
+    }
+  },
+  {
+    "id": 97,
+    "author": "Rahul Chauhan",
+    "thread": "Doubts",
+    "posted_at": "2026-10-22 10:05",
+    "comment": "If you can't even set up an API key you shouldn't be in CSE. Stop spamming the forum with your stupid doubts, dumbo.",
+    "label": "toxic",
+    "confidence": 0.7705,
+    "probabilities": {
+      "acceptable": 0.0567,
+      "toxic": 0.9182,
+      "spam": 0.0251
+    }
+  },
+  {
+    "id": 98,
+    "author": "Divya Hegde",
+    "thread": "General",
+    "posted_at": "2026-10-22 18:30",
+    "comment": "Thanks to everyone who answered doubts here, this thread was more useful than the lectures honestly 😄",
+    "label": "acceptable",
+    "confidence": 0.9004,
+    "probabilities": {
+      "acceptable": 0.9658,
+      "toxic": 0.0085,
+      "spam": 0.0257
+    }
+  },
+  {
+    "id": 99,
+    "author": "Raju Startup",
+    "thread": "General",
+    "posted_at": "2026-10-23 12:00",
+    "comment": "Hey guys check out my startup app, we are giving ₹100 Paytm cash for every signup using my referral code RAJU100 😊 Link: refer-n-earn.app/RAJU100",
+    "label": "spam",
+    "confidence": 0.8766,
+    "probabilities": {
+      "acceptable": 0.0206,
+      "toxic": 0.0219,
+      "spam": 0.9575
+    }
+  },
+  {
+    "id": 100,
+    "author": "Shreya Patil",
+    "thread": "General",
+    "posted_at": "2026-10-25 10:40",
+    "comment": "Ma'am, any update on when the next assignment will be released? Want to plan around mid-sems.",
+    "label": "acceptable",
+    "confidence": 0.7582,
+    "probabilities": {
+      "acceptable": 0.9138,
+      "toxic": 0.0388,
+      "spam": 0.0474
+    }
+  }
+]
